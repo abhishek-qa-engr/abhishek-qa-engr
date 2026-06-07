@@ -21,7 +21,7 @@
 ## 🏦 Domain Experience
 
 - 🏛️ **Westpac** — Australian Retail Banking
-- 💻 **DNA (Finastra)** — Core Banking Platform
+- 💻 **DNA** — Core Banking Platform
 - Financial transaction testing
 - Banking workflows & regression testing
 - Regulatory compliance testing
