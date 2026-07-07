@@ -1,5 +1,5 @@
 # Hi, I'm Abhishek 👋
-### QA Engineer | Banking Domain Specialist | Lucknow, India
+### QA Automation Engineer | Banking Domain Specialist | Lucknow, India
 
 ---
 
@@ -11,7 +11,7 @@
 | Automation Testing | UFT (Unified Functional Testing) |
 | Scripting | VBScript |
 | API Testing | Postman (Learning) |
-| Automation Framework | Tosca - Tricentis (Learning) |
+| Automation Framework | Playwright + Python (Learning) |
 | Programming | Python (Learning) |
 | Domain | Banking (Westpac, DNA - Finastra) |
 | Test Management | JIRA |
@@ -21,7 +21,7 @@
 ## 🏦 Domain Experience
 
 - 🏛️ **Westpac** — Australian Retail Banking
-- 💻 **DNA** — Core Banking Platform
+- 💻 **DNA (Finastra)** — Core Banking Platform
 - Financial transaction testing
 - Banking workflows & regression testing
 - Regulatory compliance testing
@@ -30,18 +30,19 @@
 
 ## 📈 Currently Learning
 
-- 🟦 Tosca Certification (Tricentis Academy)
+- 🎭 Playwright Automation Framework (Python)
 - 🟧 Advanced API Testing (Postman)
-- 🐍 Python for Test Automation
+- 🐍 Python for Test Automation (Harvard CS50P)
 
 ---
 
 ## 📂 Projects *(Coming Soon)*
 
-### 🔷 Tosca Automation Suite
-> Web application ka complete UI automation test suite
-- Login, navigation, form validation test cases
-- Data-driven testing with TDM
+### 🎭 Playwright Automation Suite
+> End-to-end web automation framework using Playwright + Python
+- Page Object Model (POM) architecture
+- Cross-browser testing (Chrome, Firefox, Safari)
+- CI/CD integration with GitHub Actions
 
 ### 🔶 Postman API Collection
 > REST API testing with assertions & Newman CLI
@@ -55,6 +56,13 @@
 
 ---
 
+## 🏆 Certifications *(In Progress)*
+
+- 📜 Postman API Fundamentals Student Expert
+- 📜 CS50P — Python (Harvard University)
+
+---
+
 ## 📫 Connect With Me
 📧 abhishek.chaturvedi1910@gmail.com
-📍 Lucknow, India | **Open to Work ✅**
+📍 Noida, India | **Open to Work ✅**
